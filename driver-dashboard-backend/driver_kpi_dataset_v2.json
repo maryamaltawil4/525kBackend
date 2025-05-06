@@ -1,0 +1,5186 @@
+[
+  {
+    "id": "d001",
+    "type": "Own",
+    "fullName": "Driver 1",
+    "contactInfo": {
+      "phone": "+1 555 000 1001",
+      "email": "driver1@example.com"
+    },
+    "yearsOfExperience": 11,
+    "license": {
+      "type": "Class A",
+      "expiryDate": "2026-01-26"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 3,
+        "driverRating": 4.2,
+        "revenueCollected": 642,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 95.2
+        },
+        "boxesDelivered": 479,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 95.9,
+        "fuelConsumption": 32,
+        "distanceCovered": 315,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 1"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 59.3,
+        "fuelEfficiency": 13.5,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 784,
+        "ordersCompleted": {
+          "count": 10,
+          "percentage": 96.4
+        },
+        "boxesDelivered": 281,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 94.2,
+        "fuelConsumption": 47,
+        "distanceCovered": 379,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 61.9,
+        "fuelEfficiency": 13.0,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 4,
+        "driverRating": 4.5,
+        "revenueCollected": 1496,
+        "ordersCompleted": {
+          "count": 34,
+          "percentage": 86.2
+        },
+        "boxesDelivered": 350,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.2,
+        "fuelConsumption": 53,
+        "distanceCovered": 595,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 62.1,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 3,
+        "driverRating": 4.5,
+        "revenueCollected": 1354,
+        "ordersCompleted": {
+          "count": 33,
+          "percentage": 87.4
+        },
+        "boxesDelivered": 381,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 96.7,
+        "fuelConsumption": 34,
+        "distanceCovered": 611,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 64.8,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 3,
+        "driverRating": 4.8,
+        "revenueCollected": 1294,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 88.4
+        },
+        "boxesDelivered": 216,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 94.0,
+        "fuelConsumption": 34,
+        "distanceCovered": 408,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 57.9,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 2,
+        "driverRating": 4.7,
+        "revenueCollected": 1051,
+        "ordersCompleted": {
+          "count": 26,
+          "percentage": 96.2
+        },
+        "boxesDelivered": 419,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 94.0,
+        "fuelConsumption": 44,
+        "distanceCovered": 370,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 48.2,
+        "fuelEfficiency": 13.4,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 4,
+        "driverRating": 4.4,
+        "revenueCollected": 979,
+        "ordersCompleted": {
+          "count": 43,
+          "percentage": 88.8
+        },
+        "boxesDelivered": 483,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 96.8,
+        "fuelConsumption": 37,
+        "distanceCovered": 649,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse X"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 54.1,
+        "fuelEfficiency": 14.8,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.8,
+        "revenueCollected": 1019,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 98.1
+        },
+        "boxesDelivered": 352,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 95.1,
+        "fuelConsumption": 42,
+        "distanceCovered": 378,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 47.2,
+        "fuelEfficiency": 11.8,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 2,
+        "driverRating": 4.1,
+        "revenueCollected": 1399,
+        "ordersCompleted": {
+          "count": 46,
+          "percentage": 99.2
+        },
+        "boxesDelivered": 243,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 94.9,
+        "fuelConsumption": 34,
+        "distanceCovered": 800,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 62.4,
+        "fuelEfficiency": 12.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.8,
+        "revenueCollected": 1206,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 95.7
+        },
+        "boxesDelivered": 404,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.5,
+        "fuelConsumption": 58,
+        "distanceCovered": 760,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 45.4,
+        "fuelEfficiency": 12.8,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 1,
+        "driverRating": 4.1,
+        "revenueCollected": 1146,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 88.4
+        },
+        "boxesDelivered": 216,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 90.7,
+        "fuelConsumption": 45,
+        "distanceCovered": 442,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 54.5,
+        "fuelEfficiency": 12.0,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 1,
+        "driverRating": 4.7,
+        "revenueCollected": 862,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 91.2
+        },
+        "boxesDelivered": 573,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 96.7,
+        "fuelConsumption": 36,
+        "distanceCovered": 331,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 54.0,
+        "fuelEfficiency": 12.1,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 4,
+        "driverRating": 4.2,
+        "revenueCollected": 1445,
+        "ordersCompleted": {
+          "count": 14,
+          "percentage": 91.6
+        },
+        "boxesDelivered": 481,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 90.5,
+        "fuelConsumption": 64,
+        "distanceCovered": 728,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 49.3,
+        "fuelEfficiency": 12.0,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 899,
+        "ordersCompleted": {
+          "count": 26,
+          "percentage": 98.9
+        },
+        "boxesDelivered": 432,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 94.2,
+        "fuelConsumption": 65,
+        "distanceCovered": 638,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 56.6,
+        "fuelEfficiency": 12.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 1,
+        "driverRating": 4.1,
+        "revenueCollected": 988,
+        "ordersCompleted": {
+          "count": 42,
+          "percentage": 98.8
+        },
+        "boxesDelivered": 471,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 90.6,
+        "fuelConsumption": 62,
+        "distanceCovered": 341,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 62.8,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 5,
+        "driverRating": 4.1,
+        "revenueCollected": 1173,
+        "ordersCompleted": {
+          "count": 47,
+          "percentage": 93.5
+        },
+        "boxesDelivered": 361,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 92.0,
+        "fuelConsumption": 50,
+        "distanceCovered": 422,
+        "workingHours": 28,
+        "mostUsedLanes": [
+          "Route C",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 60.0,
+        "fuelEfficiency": 10.4,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 5,
+        "driverRating": 5.0,
+        "revenueCollected": 602,
+        "ordersCompleted": {
+          "count": 14,
+          "percentage": 93.1
+        },
+        "boxesDelivered": 459,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 91.3,
+        "fuelConsumption": 52,
+        "distanceCovered": 751,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route B",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 55.9,
+        "fuelEfficiency": 11.5,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 5,
+        "driverRating": 4.3,
+        "revenueCollected": 1179,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 99.1
+        },
+        "boxesDelivered": 268,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 91.2,
+        "fuelConsumption": 36,
+        "distanceCovered": 680,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route B",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 49.1,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 5,
+        "driverRating": 4.5,
+        "revenueCollected": 1427,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 86.4
+        },
+        "boxesDelivered": 416,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 90.4,
+        "fuelConsumption": 51,
+        "distanceCovered": 694,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 47.2,
+        "fuelEfficiency": 14.7,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 5,
+        "driverRating": 4.0,
+        "revenueCollected": 878,
+        "ordersCompleted": {
+          "count": 47,
+          "percentage": 93.3
+        },
+        "boxesDelivered": 420,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 90.4,
+        "fuelConsumption": 53,
+        "distanceCovered": 760,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 1"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 56.2,
+        "fuelEfficiency": 14.4,
+        "stopFrequency": 2
+      }
+    ]
+  },
+  {
+    "id": "d002",
+    "type": "Own",
+    "fullName": "Driver 2",
+    "contactInfo": {
+      "phone": "+1 555 000 1002",
+      "email": "driver2@example.com"
+    },
+    "yearsOfExperience": 15,
+    "license": {
+      "type": "Class A",
+      "expiryDate": "2026-06-16"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 2,
+        "driverRating": 4.9,
+        "revenueCollected": 525,
+        "ordersCompleted": {
+          "count": 21,
+          "percentage": 96.0
+        },
+        "boxesDelivered": 370,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 98.0,
+        "fuelConsumption": 45,
+        "distanceCovered": 436,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 61.3,
+        "fuelEfficiency": 12.3,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 2,
+        "driverRating": 4.2,
+        "revenueCollected": 1175,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 91.0
+        },
+        "boxesDelivered": 342,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 99.7,
+        "fuelConsumption": 47,
+        "distanceCovered": 479,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 47.3,
+        "fuelEfficiency": 14.9,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 5,
+        "driverRating": 5.0,
+        "revenueCollected": 771,
+        "ordersCompleted": {
+          "count": 12,
+          "percentage": 86.6
+        },
+        "boxesDelivered": 422,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 97.3,
+        "fuelConsumption": 50,
+        "distanceCovered": 523,
+        "workingHours": 39,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 59.2,
+        "fuelEfficiency": 10.0,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 1471,
+        "ordersCompleted": {
+          "count": 31,
+          "percentage": 94.3
+        },
+        "boxesDelivered": 539,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 97.2,
+        "fuelConsumption": 49,
+        "distanceCovered": 559,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Warehouse X"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 48.8,
+        "fuelEfficiency": 13.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 2,
+        "driverRating": 4.6,
+        "revenueCollected": 808,
+        "ordersCompleted": {
+          "count": 35,
+          "percentage": 93.2
+        },
+        "boxesDelivered": 200,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 92.9,
+        "fuelConsumption": 57,
+        "distanceCovered": 702,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Route D",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 49.3,
+        "fuelEfficiency": 12.4,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 1,
+        "driverRating": 4.3,
+        "revenueCollected": 1179,
+        "ordersCompleted": {
+          "count": 50,
+          "percentage": 94.3
+        },
+        "boxesDelivered": 247,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 96.7,
+        "fuelConsumption": 44,
+        "distanceCovered": 712,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 2"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 57.2,
+        "fuelEfficiency": 13.8,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 4,
+        "driverRating": 4.9,
+        "revenueCollected": 1089,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 95.8
+        },
+        "boxesDelivered": 396,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 94.0,
+        "fuelConsumption": 39,
+        "distanceCovered": 635,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 58.9,
+        "fuelEfficiency": 12.3,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 1,
+        "driverRating": 4.5,
+        "revenueCollected": 1320,
+        "ordersCompleted": {
+          "count": 39,
+          "percentage": 95.0
+        },
+        "boxesDelivered": 486,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 93.2,
+        "fuelConsumption": 58,
+        "distanceCovered": 613,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 60.0,
+        "fuelEfficiency": 14.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 5,
+        "driverRating": 4.5,
+        "revenueCollected": 744,
+        "ordersCompleted": {
+          "count": 27,
+          "percentage": 91.6
+        },
+        "boxesDelivered": 565,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 92.3,
+        "fuelConsumption": 51,
+        "distanceCovered": 463,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 48.1,
+        "fuelEfficiency": 11.1,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 4,
+        "driverRating": 4.3,
+        "revenueCollected": 977,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 85.9
+        },
+        "boxesDelivered": 415,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 99.0,
+        "fuelConsumption": 67,
+        "distanceCovered": 784,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 51.0,
+        "fuelEfficiency": 11.9,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 5,
+        "driverRating": 4.7,
+        "revenueCollected": 1059,
+        "ordersCompleted": {
+          "count": 48,
+          "percentage": 98.5
+        },
+        "boxesDelivered": 449,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 92.7,
+        "fuelConsumption": 61,
+        "distanceCovered": 314,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 64.6,
+        "fuelEfficiency": 12.7,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.6,
+        "revenueCollected": 527,
+        "ordersCompleted": {
+          "count": 15,
+          "percentage": 94.6
+        },
+        "boxesDelivered": 269,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 91.8,
+        "fuelConsumption": 46,
+        "distanceCovered": 494,
+        "workingHours": 30,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 52.6,
+        "fuelEfficiency": 13.8,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 3,
+        "driverRating": 4.8,
+        "revenueCollected": 981,
+        "ordersCompleted": {
+          "count": 11,
+          "percentage": 96.2
+        },
+        "boxesDelivered": 226,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 92.2,
+        "fuelConsumption": 34,
+        "distanceCovered": 699,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 57.4,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 1,
+        "driverRating": 4.6,
+        "revenueCollected": 723,
+        "ordersCompleted": {
+          "count": 39,
+          "percentage": 95.5
+        },
+        "boxesDelivered": 592,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 91.7,
+        "fuelConsumption": 68,
+        "distanceCovered": 793,
+        "workingHours": 23,
+        "mostUsedLanes": [
+          "Route B",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 56.5,
+        "fuelEfficiency": 14.5,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 4,
+        "driverRating": 4.9,
+        "revenueCollected": 703,
+        "ordersCompleted": {
+          "count": 14,
+          "percentage": 93.9
+        },
+        "boxesDelivered": 521,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 91.0,
+        "fuelConsumption": 49,
+        "distanceCovered": 735,
+        "workingHours": 39,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 46.4,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 4,
+        "driverRating": 4.8,
+        "revenueCollected": 608,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 99.4
+        },
+        "boxesDelivered": 525,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 97.1,
+        "fuelConsumption": 57,
+        "distanceCovered": 390,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 56.8,
+        "fuelEfficiency": 11.6,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 1,
+        "driverRating": 4.3,
+        "revenueCollected": 961,
+        "ordersCompleted": {
+          "count": 25,
+          "percentage": 96.3
+        },
+        "boxesDelivered": 491,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 96.7,
+        "fuelConsumption": 51,
+        "distanceCovered": 314,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 50.2,
+        "fuelEfficiency": 11.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 5,
+        "driverRating": 4.0,
+        "revenueCollected": 1470,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 86.3
+        },
+        "boxesDelivered": 568,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 94.9,
+        "fuelConsumption": 45,
+        "distanceCovered": 653,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 53.1,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 4,
+        "driverRating": 4.6,
+        "revenueCollected": 852,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 99.9
+        },
+        "boxesDelivered": 481,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 93.5,
+        "fuelConsumption": 59,
+        "distanceCovered": 438,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 2"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 59.9,
+        "fuelEfficiency": 14.8,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 2,
+        "driverRating": 4.2,
+        "revenueCollected": 995,
+        "ordersCompleted": {
+          "count": 27,
+          "percentage": 95.9
+        },
+        "boxesDelivered": 589,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 96.0,
+        "fuelConsumption": 36,
+        "distanceCovered": 726,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 59.2,
+        "fuelEfficiency": 10.6,
+        "stopFrequency": 1
+      }
+    ]
+  },
+  {
+    "id": "d003",
+    "type": "Own",
+    "fullName": "Driver 3",
+    "contactInfo": {
+      "phone": "+1 555 000 1003",
+      "email": "driver3@example.com"
+    },
+    "yearsOfExperience": 1,
+    "license": {
+      "type": "Class C",
+      "expiryDate": "2026-10-27"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 2,
+        "driverRating": 4.6,
+        "revenueCollected": 1270,
+        "ordersCompleted": {
+          "count": 41,
+          "percentage": 86.5
+        },
+        "boxesDelivered": 206,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 92.8,
+        "fuelConsumption": 60,
+        "distanceCovered": 525,
+        "workingHours": 30,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 46.3,
+        "fuelEfficiency": 12.5,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 2,
+        "driverRating": 4.1,
+        "revenueCollected": 1076,
+        "ordersCompleted": {
+          "count": 29,
+          "percentage": 86.3
+        },
+        "boxesDelivered": 327,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 95.6,
+        "fuelConsumption": 56,
+        "distanceCovered": 610,
+        "workingHours": 39,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 53.9,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 3,
+        "driverRating": 4.6,
+        "revenueCollected": 561,
+        "ordersCompleted": {
+          "count": 49,
+          "percentage": 99.4
+        },
+        "boxesDelivered": 250,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 96.3,
+        "fuelConsumption": 46,
+        "distanceCovered": 638,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 1"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 53.2,
+        "fuelEfficiency": 13.4,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 3,
+        "driverRating": 4.0,
+        "revenueCollected": 795,
+        "ordersCompleted": {
+          "count": 28,
+          "percentage": 95.5
+        },
+        "boxesDelivered": 432,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 96.9,
+        "fuelConsumption": 46,
+        "distanceCovered": 703,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 58.0,
+        "fuelEfficiency": 14.5,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 1,
+        "driverRating": 4.1,
+        "revenueCollected": 1311,
+        "ordersCompleted": {
+          "count": 29,
+          "percentage": 93.9
+        },
+        "boxesDelivered": 491,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 94.4,
+        "fuelConsumption": 59,
+        "distanceCovered": 652,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 57.0,
+        "fuelEfficiency": 14.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.3,
+        "revenueCollected": 593,
+        "ordersCompleted": {
+          "count": 24,
+          "percentage": 99.4
+        },
+        "boxesDelivered": 494,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 99.5,
+        "fuelConsumption": 47,
+        "distanceCovered": 595,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 48.6,
+        "fuelEfficiency": 12.9,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 1,
+        "driverRating": 4.5,
+        "revenueCollected": 918,
+        "ordersCompleted": {
+          "count": 31,
+          "percentage": 89.8
+        },
+        "boxesDelivered": 253,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 93.3,
+        "fuelConsumption": 61,
+        "distanceCovered": 447,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 51.5,
+        "fuelEfficiency": 14.9,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.8,
+        "revenueCollected": 501,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 91.9
+        },
+        "boxesDelivered": 227,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 95.2,
+        "fuelConsumption": 69,
+        "distanceCovered": 687,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 63.6,
+        "fuelEfficiency": 12.2,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 1,
+        "driverRating": 4.0,
+        "revenueCollected": 1145,
+        "ordersCompleted": {
+          "count": 48,
+          "percentage": 97.0
+        },
+        "boxesDelivered": 563,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 93.1,
+        "fuelConsumption": 30,
+        "distanceCovered": 582,
+        "workingHours": 33,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 58.0,
+        "fuelEfficiency": 10.8,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.7,
+        "revenueCollected": 925,
+        "ordersCompleted": {
+          "count": 40,
+          "percentage": 99.7
+        },
+        "boxesDelivered": 324,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 95.5,
+        "fuelConsumption": 54,
+        "distanceCovered": 397,
+        "workingHours": 39,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse X"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 62.1,
+        "fuelEfficiency": 11.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 1,
+        "driverRating": 4.3,
+        "revenueCollected": 805,
+        "ordersCompleted": {
+          "count": 47,
+          "percentage": 93.7
+        },
+        "boxesDelivered": 537,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 98.7,
+        "fuelConsumption": 58,
+        "distanceCovered": 575,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 51.4,
+        "fuelEfficiency": 10.9,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.4,
+        "revenueCollected": 1376,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 85.7
+        },
+        "boxesDelivered": 581,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 97.1,
+        "fuelConsumption": 54,
+        "distanceCovered": 497,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 2"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 56.8,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 1,
+        "driverRating": 4.5,
+        "revenueCollected": 967,
+        "ordersCompleted": {
+          "count": 10,
+          "percentage": 95.8
+        },
+        "boxesDelivered": 409,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 99.7,
+        "fuelConsumption": 34,
+        "distanceCovered": 540,
+        "workingHours": 28,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse X"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 62.2,
+        "fuelEfficiency": 11.9,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 4,
+        "driverRating": 4.9,
+        "revenueCollected": 536,
+        "ordersCompleted": {
+          "count": 49,
+          "percentage": 86.0
+        },
+        "boxesDelivered": 523,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 99.2,
+        "fuelConsumption": 44,
+        "distanceCovered": 682,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 51.0,
+        "fuelEfficiency": 10.1,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 1,
+        "driverRating": 4.3,
+        "revenueCollected": 883,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 87.2
+        },
+        "boxesDelivered": 471,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 95.7,
+        "fuelConsumption": 41,
+        "distanceCovered": 387,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 56.7,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 4,
+        "driverRating": 4.3,
+        "revenueCollected": 509,
+        "ordersCompleted": {
+          "count": 39,
+          "percentage": 98.5
+        },
+        "boxesDelivered": 546,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 91.6,
+        "fuelConsumption": 58,
+        "distanceCovered": 783,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route D",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Warehouse X"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 51.0,
+        "fuelEfficiency": 15.0,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 1,
+        "driverRating": 4.2,
+        "revenueCollected": 1085,
+        "ordersCompleted": {
+          "count": 32,
+          "percentage": 93.6
+        },
+        "boxesDelivered": 558,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 90.2,
+        "fuelConsumption": 55,
+        "distanceCovered": 440,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 63.1,
+        "fuelEfficiency": 13.9,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 5,
+        "driverRating": 4.8,
+        "revenueCollected": 724,
+        "ordersCompleted": {
+          "count": 50,
+          "percentage": 87.9
+        },
+        "boxesDelivered": 328,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 97.6,
+        "fuelConsumption": 38,
+        "distanceCovered": 621,
+        "workingHours": 23,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.4,
+        "averageSpeed": 59.6,
+        "fuelEfficiency": 10.5,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 3,
+        "driverRating": 4.7,
+        "revenueCollected": 679,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 87.0
+        },
+        "boxesDelivered": 476,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 95.3,
+        "fuelConsumption": 47,
+        "distanceCovered": 725,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 54.4,
+        "fuelEfficiency": 10.4,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 4,
+        "driverRating": 5.0,
+        "revenueCollected": 1323,
+        "ordersCompleted": {
+          "count": 45,
+          "percentage": 90.5
+        },
+        "boxesDelivered": 402,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 92.6,
+        "fuelConsumption": 37,
+        "distanceCovered": 532,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 54.4,
+        "fuelEfficiency": 13.1,
+        "stopFrequency": 3
+      }
+    ]
+  },
+  {
+    "id": "d004",
+    "type": "Leased",
+    "fullName": "Driver 4",
+    "contactInfo": {
+      "phone": "+1 555 000 1004",
+      "email": "driver4@example.com"
+    },
+    "yearsOfExperience": 15,
+    "license": {
+      "type": "Class C",
+      "expiryDate": "2026-08-15"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 1,
+        "driverRating": 4.6,
+        "revenueCollected": 975,
+        "ordersCompleted": {
+          "count": 29,
+          "percentage": 94.7
+        },
+        "boxesDelivered": 259,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 90.5,
+        "fuelConsumption": 32,
+        "distanceCovered": 455,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 52.4,
+        "fuelEfficiency": 14.7,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 5,
+        "driverRating": 4.7,
+        "revenueCollected": 658,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 94.8
+        },
+        "boxesDelivered": 450,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 94.1,
+        "fuelConsumption": 47,
+        "distanceCovered": 316,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 47.0,
+        "fuelEfficiency": 13.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 1,
+        "driverRating": 4.4,
+        "revenueCollected": 694,
+        "ordersCompleted": {
+          "count": 17,
+          "percentage": 99.2
+        },
+        "boxesDelivered": 432,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 96.6,
+        "fuelConsumption": 70,
+        "distanceCovered": 605,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 49.1,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 5,
+        "driverRating": 4.2,
+        "revenueCollected": 1390,
+        "ordersCompleted": {
+          "count": 24,
+          "percentage": 89.9
+        },
+        "boxesDelivered": 275,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 90.0,
+        "fuelConsumption": 39,
+        "distanceCovered": 366,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 52.2,
+        "fuelEfficiency": 13.9,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 1,
+        "driverRating": 4.2,
+        "revenueCollected": 553,
+        "ordersCompleted": {
+          "count": 18,
+          "percentage": 96.1
+        },
+        "boxesDelivered": 469,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 97.5,
+        "fuelConsumption": 60,
+        "distanceCovered": 529,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 45.9,
+        "fuelEfficiency": 13.9,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 4,
+        "driverRating": 4.6,
+        "revenueCollected": 531,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 100.0
+        },
+        "boxesDelivered": 405,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 96.9,
+        "fuelConsumption": 61,
+        "distanceCovered": 664,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 50.5,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 4,
+        "driverRating": 5.0,
+        "revenueCollected": 1043,
+        "ordersCompleted": {
+          "count": 28,
+          "percentage": 91.8
+        },
+        "boxesDelivered": 509,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 91.0,
+        "fuelConsumption": 37,
+        "distanceCovered": 736,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 53.3,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 4,
+        "driverRating": 4.7,
+        "revenueCollected": 820,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 89.7
+        },
+        "boxesDelivered": 330,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 99.5,
+        "fuelConsumption": 60,
+        "distanceCovered": 334,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 52.5,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 5,
+        "driverRating": 5.0,
+        "revenueCollected": 1075,
+        "ordersCompleted": {
+          "count": 31,
+          "percentage": 95.1
+        },
+        "boxesDelivered": 410,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 98.7,
+        "fuelConsumption": 57,
+        "distanceCovered": 744,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.4,
+        "averageSpeed": 49.3,
+        "fuelEfficiency": 13.3,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 1,
+        "driverRating": 4.4,
+        "revenueCollected": 1069,
+        "ordersCompleted": {
+          "count": 33,
+          "percentage": 86.7
+        },
+        "boxesDelivered": 342,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 92.3,
+        "fuelConsumption": 57,
+        "distanceCovered": 732,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 50.5,
+        "fuelEfficiency": 13.8,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 3,
+        "driverRating": 4.0,
+        "revenueCollected": 1390,
+        "ordersCompleted": {
+          "count": 19,
+          "percentage": 93.5
+        },
+        "boxesDelivered": 405,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 91.4,
+        "fuelConsumption": 70,
+        "distanceCovered": 797,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 48.1,
+        "fuelEfficiency": 11.6,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.6,
+        "revenueCollected": 1404,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 87.3
+        },
+        "boxesDelivered": 586,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 90.5,
+        "fuelConsumption": 35,
+        "distanceCovered": 439,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 49.3,
+        "fuelEfficiency": 12.6,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 4,
+        "driverRating": 4.1,
+        "revenueCollected": 1194,
+        "ordersCompleted": {
+          "count": 47,
+          "percentage": 92.3
+        },
+        "boxesDelivered": 541,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 90.5,
+        "fuelConsumption": 55,
+        "distanceCovered": 606,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 60.3,
+        "fuelEfficiency": 11.4,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 1,
+        "driverRating": 4.5,
+        "revenueCollected": 940,
+        "ordersCompleted": {
+          "count": 21,
+          "percentage": 86.9
+        },
+        "boxesDelivered": 472,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 92.3,
+        "fuelConsumption": 65,
+        "distanceCovered": 726,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 63.4,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 5,
+        "driverRating": 4.4,
+        "revenueCollected": 1155,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 89.3
+        },
+        "boxesDelivered": 407,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 99.7,
+        "fuelConsumption": 40,
+        "distanceCovered": 710,
+        "workingHours": 39,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 49.9,
+        "fuelEfficiency": 12.9,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 4,
+        "driverRating": 4.9,
+        "revenueCollected": 1263,
+        "ordersCompleted": {
+          "count": 31,
+          "percentage": 88.3
+        },
+        "boxesDelivered": 598,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 90.8,
+        "fuelConsumption": 70,
+        "distanceCovered": 358,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 61.4,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 1,
+        "driverRating": 4.1,
+        "revenueCollected": 702,
+        "ordersCompleted": {
+          "count": 21,
+          "percentage": 94.0
+        },
+        "boxesDelivered": 589,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 90.8,
+        "fuelConsumption": 70,
+        "distanceCovered": 552,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 57.5,
+        "fuelEfficiency": 10.8,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 4,
+        "driverRating": 4.4,
+        "revenueCollected": 810,
+        "ordersCompleted": {
+          "count": 27,
+          "percentage": 93.9
+        },
+        "boxesDelivered": 380,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 90.7,
+        "fuelConsumption": 59,
+        "distanceCovered": 531,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 64.5,
+        "fuelEfficiency": 10.5,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 4,
+        "driverRating": 4.6,
+        "revenueCollected": 1477,
+        "ordersCompleted": {
+          "count": 12,
+          "percentage": 91.7
+        },
+        "boxesDelivered": 492,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 91.9,
+        "fuelConsumption": 68,
+        "distanceCovered": 543,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 61.7,
+        "fuelEfficiency": 14.9,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 5,
+        "driverRating": 4.6,
+        "revenueCollected": 540,
+        "ordersCompleted": {
+          "count": 25,
+          "percentage": 95.6
+        },
+        "boxesDelivered": 424,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 95.2,
+        "fuelConsumption": 40,
+        "distanceCovered": 486,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Warehouse X"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 46.0,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 3
+      }
+    ]
+  },
+  {
+    "id": "d005",
+    "type": "Leased",
+    "fullName": "Driver 5",
+    "contactInfo": {
+      "phone": "+1 555 000 1005",
+      "email": "driver5@example.com"
+    },
+    "yearsOfExperience": 2,
+    "license": {
+      "type": "Class B",
+      "expiryDate": "2026-04-07"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 5,
+        "driverRating": 4.7,
+        "revenueCollected": 790,
+        "ordersCompleted": {
+          "count": 26,
+          "percentage": 95.9
+        },
+        "boxesDelivered": 536,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 98.7,
+        "fuelConsumption": 51,
+        "distanceCovered": 341,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Route B",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 59.2,
+        "fuelEfficiency": 10.4,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 3,
+        "driverRating": 4.8,
+        "revenueCollected": 1186,
+        "ordersCompleted": {
+          "count": 43,
+          "percentage": 86.4
+        },
+        "boxesDelivered": 543,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 95.1,
+        "fuelConsumption": 31,
+        "distanceCovered": 485,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 65.0,
+        "fuelEfficiency": 10.8,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 1,
+        "driverRating": 4.5,
+        "revenueCollected": 1052,
+        "ordersCompleted": {
+          "count": 43,
+          "percentage": 85.6
+        },
+        "boxesDelivered": 372,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 91.3,
+        "fuelConsumption": 54,
+        "distanceCovered": 378,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 58.5,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 5,
+        "driverRating": 4.3,
+        "revenueCollected": 1266,
+        "ordersCompleted": {
+          "count": 38,
+          "percentage": 88.5
+        },
+        "boxesDelivered": 322,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 99.7,
+        "fuelConsumption": 60,
+        "distanceCovered": 762,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Warehouse X"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 55.1,
+        "fuelEfficiency": 12.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 2,
+        "driverRating": 4.8,
+        "revenueCollected": 641,
+        "ordersCompleted": {
+          "count": 26,
+          "percentage": 85.8
+        },
+        "boxesDelivered": 446,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 95.5,
+        "fuelConsumption": 36,
+        "distanceCovered": 664,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 2"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 63.1,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 1,
+        "driverRating": 4.9,
+        "revenueCollected": 727,
+        "ordersCompleted": {
+          "count": 38,
+          "percentage": 98.3
+        },
+        "boxesDelivered": 213,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 90.5,
+        "fuelConsumption": 62,
+        "distanceCovered": 491,
+        "workingHours": 27,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 63.6,
+        "fuelEfficiency": 14.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 2,
+        "driverRating": 4.1,
+        "revenueCollected": 793,
+        "ordersCompleted": {
+          "count": 40,
+          "percentage": 95.4
+        },
+        "boxesDelivered": 271,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 94.7,
+        "fuelConsumption": 69,
+        "distanceCovered": 302,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 59.5,
+        "fuelEfficiency": 12.6,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 3,
+        "driverRating": 4.2,
+        "revenueCollected": 624,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 88.6
+        },
+        "boxesDelivered": 527,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 94.6,
+        "fuelConsumption": 37,
+        "distanceCovered": 728,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 50.8,
+        "fuelEfficiency": 10.0,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 2,
+        "driverRating": 4.6,
+        "revenueCollected": 691,
+        "ordersCompleted": {
+          "count": 15,
+          "percentage": 92.9
+        },
+        "boxesDelivered": 384,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 99.5,
+        "fuelConsumption": 64,
+        "distanceCovered": 559,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 52.7,
+        "fuelEfficiency": 11.9,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 3,
+        "driverRating": 4.8,
+        "revenueCollected": 853,
+        "ordersCompleted": {
+          "count": 25,
+          "percentage": 96.0
+        },
+        "boxesDelivered": 521,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 97.7,
+        "fuelConsumption": 51,
+        "distanceCovered": 368,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 54.6,
+        "fuelEfficiency": 10.9,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 1,
+        "driverRating": 4.7,
+        "revenueCollected": 1466,
+        "ordersCompleted": {
+          "count": 39,
+          "percentage": 85.6
+        },
+        "boxesDelivered": 303,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 97.9,
+        "fuelConsumption": 32,
+        "distanceCovered": 461,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 60.1,
+        "fuelEfficiency": 11.0,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 1,
+        "driverRating": 4.9,
+        "revenueCollected": 839,
+        "ordersCompleted": {
+          "count": 27,
+          "percentage": 86.9
+        },
+        "boxesDelivered": 388,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 98.9,
+        "fuelConsumption": 58,
+        "distanceCovered": 758,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 60.9,
+        "fuelEfficiency": 11.3,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 4,
+        "driverRating": 4.1,
+        "revenueCollected": 1116,
+        "ordersCompleted": {
+          "count": 21,
+          "percentage": 93.2
+        },
+        "boxesDelivered": 364,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 90.8,
+        "fuelConsumption": 48,
+        "distanceCovered": 456,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 45.8,
+        "fuelEfficiency": 14.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 5,
+        "driverRating": 5.0,
+        "revenueCollected": 781,
+        "ordersCompleted": {
+          "count": 50,
+          "percentage": 99.7
+        },
+        "boxesDelivered": 229,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 96.7,
+        "fuelConsumption": 55,
+        "distanceCovered": 486,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 46.3,
+        "fuelEfficiency": 13.9,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 1080,
+        "ordersCompleted": {
+          "count": 12,
+          "percentage": 94.1
+        },
+        "boxesDelivered": 547,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 99.5,
+        "fuelConsumption": 53,
+        "distanceCovered": 527,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 58.0,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 1,
+        "driverRating": 4.7,
+        "revenueCollected": 1011,
+        "ordersCompleted": {
+          "count": 43,
+          "percentage": 90.8
+        },
+        "boxesDelivered": 487,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 92.6,
+        "fuelConsumption": 46,
+        "distanceCovered": 660,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route B",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 62.1,
+        "fuelEfficiency": 12.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 1,
+        "driverRating": 4.8,
+        "revenueCollected": 1490,
+        "ordersCompleted": {
+          "count": 30,
+          "percentage": 95.0
+        },
+        "boxesDelivered": 563,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 95.5,
+        "fuelConsumption": 48,
+        "distanceCovered": 756,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 49.0,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 1,
+        "driverRating": 4.4,
+        "revenueCollected": 1086,
+        "ordersCompleted": {
+          "count": 33,
+          "percentage": 92.0
+        },
+        "boxesDelivered": 482,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 96.1,
+        "fuelConsumption": 35,
+        "distanceCovered": 333,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 61.5,
+        "fuelEfficiency": 10.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 1,
+        "driverRating": 4.4,
+        "revenueCollected": 1196,
+        "ordersCompleted": {
+          "count": 43,
+          "percentage": 90.2
+        },
+        "boxesDelivered": 599,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 96.4,
+        "fuelConsumption": 41,
+        "distanceCovered": 693,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 2"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 48.2,
+        "fuelEfficiency": 14.7,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 3,
+        "driverRating": 4.9,
+        "revenueCollected": 1031,
+        "ordersCompleted": {
+          "count": 28,
+          "percentage": 97.7
+        },
+        "boxesDelivered": 328,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 96.4,
+        "fuelConsumption": 65,
+        "distanceCovered": 440,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.4,
+        "averageSpeed": 56.6,
+        "fuelEfficiency": 10.9,
+        "stopFrequency": 3
+      }
+    ]
+  },
+  {
+    "id": "d006",
+    "type": "Leased",
+    "fullName": "Driver 6",
+    "contactInfo": {
+      "phone": "+1 555 000 1006",
+      "email": "driver6@example.com"
+    },
+    "yearsOfExperience": 14,
+    "license": {
+      "type": "Class C",
+      "expiryDate": "2026-02-12"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 1,
+        "driverRating": 4.1,
+        "revenueCollected": 1471,
+        "ordersCompleted": {
+          "count": 46,
+          "percentage": 89.0
+        },
+        "boxesDelivered": 307,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 94.2,
+        "fuelConsumption": 70,
+        "distanceCovered": 315,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route D",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 61.1,
+        "fuelEfficiency": 12.0,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 1,
+        "driverRating": 4.7,
+        "revenueCollected": 661,
+        "ordersCompleted": {
+          "count": 38,
+          "percentage": 91.2
+        },
+        "boxesDelivered": 437,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 93.4,
+        "fuelConsumption": 39,
+        "distanceCovered": 460,
+        "workingHours": 30,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 47.1,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 644,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 85.8
+        },
+        "boxesDelivered": 396,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 94.2,
+        "fuelConsumption": 40,
+        "distanceCovered": 716,
+        "workingHours": 30,
+        "mostUsedLanes": [
+          "Route D",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 55.3,
+        "fuelEfficiency": 12.5,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 4,
+        "driverRating": 4.0,
+        "revenueCollected": 1467,
+        "ordersCompleted": {
+          "count": 35,
+          "percentage": 92.6
+        },
+        "boxesDelivered": 323,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 95.8,
+        "fuelConsumption": 33,
+        "distanceCovered": 325,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 53.6,
+        "fuelEfficiency": 14.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 4,
+        "driverRating": 4.4,
+        "revenueCollected": 910,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 93.6
+        },
+        "boxesDelivered": 299,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 95.5,
+        "fuelConsumption": 34,
+        "distanceCovered": 497,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 1"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 46.9,
+        "fuelEfficiency": 11.9,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.9,
+        "revenueCollected": 1273,
+        "ordersCompleted": {
+          "count": 19,
+          "percentage": 88.0
+        },
+        "boxesDelivered": 460,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 95.0,
+        "fuelConsumption": 32,
+        "distanceCovered": 319,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 62.9,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 1131,
+        "ordersCompleted": {
+          "count": 29,
+          "percentage": 93.9
+        },
+        "boxesDelivered": 459,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 95.3,
+        "fuelConsumption": 66,
+        "distanceCovered": 453,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 56.7,
+        "fuelEfficiency": 14.0,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.5,
+        "revenueCollected": 1490,
+        "ordersCompleted": {
+          "count": 47,
+          "percentage": 93.7
+        },
+        "boxesDelivered": 569,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 95.8,
+        "fuelConsumption": 40,
+        "distanceCovered": 568,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 64.0,
+        "fuelEfficiency": 10.5,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 4,
+        "driverRating": 4.3,
+        "revenueCollected": 655,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 95.4
+        },
+        "boxesDelivered": 410,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 97.7,
+        "fuelConsumption": 60,
+        "distanceCovered": 746,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 54.6,
+        "fuelEfficiency": 11.9,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 4,
+        "driverRating": 4.9,
+        "revenueCollected": 850,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 90.3
+        },
+        "boxesDelivered": 595,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.8,
+        "fuelConsumption": 46,
+        "distanceCovered": 612,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 64.5,
+        "fuelEfficiency": 11.5,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 2,
+        "driverRating": 4.7,
+        "revenueCollected": 1000,
+        "ordersCompleted": {
+          "count": 30,
+          "percentage": 92.2
+        },
+        "boxesDelivered": 486,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 92.7,
+        "fuelConsumption": 37,
+        "distanceCovered": 593,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 50.8,
+        "fuelEfficiency": 13.6,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 4,
+        "driverRating": 4.7,
+        "revenueCollected": 1265,
+        "ordersCompleted": {
+          "count": 40,
+          "percentage": 88.2
+        },
+        "boxesDelivered": 475,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 99.3,
+        "fuelConsumption": 47,
+        "distanceCovered": 370,
+        "workingHours": 23,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 1"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 55.6,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 1,
+        "driverRating": 4.4,
+        "revenueCollected": 1234,
+        "ordersCompleted": {
+          "count": 40,
+          "percentage": 86.5
+        },
+        "boxesDelivered": 594,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 90.1,
+        "fuelConsumption": 65,
+        "distanceCovered": 800,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 50.7,
+        "fuelEfficiency": 11.4,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 1,
+        "driverRating": 4.7,
+        "revenueCollected": 737,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 96.1
+        },
+        "boxesDelivered": 219,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 94.2,
+        "fuelConsumption": 41,
+        "distanceCovered": 778,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 45.2,
+        "fuelEfficiency": 12.8,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 3,
+        "driverRating": 4.3,
+        "revenueCollected": 1156,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 92.9
+        },
+        "boxesDelivered": 268,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 94.7,
+        "fuelConsumption": 42,
+        "distanceCovered": 714,
+        "workingHours": 23,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Warehouse X"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 45.3,
+        "fuelEfficiency": 11.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 5,
+        "driverRating": 4.7,
+        "revenueCollected": 697,
+        "ordersCompleted": {
+          "count": 21,
+          "percentage": 94.2
+        },
+        "boxesDelivered": 527,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 98.3,
+        "fuelConsumption": 62,
+        "distanceCovered": 467,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 63.7,
+        "fuelEfficiency": 10.0,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 773,
+        "ordersCompleted": {
+          "count": 31,
+          "percentage": 89.5
+        },
+        "boxesDelivered": 570,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 90.1,
+        "fuelConsumption": 53,
+        "distanceCovered": 654,
+        "workingHours": 27,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Warehouse X"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 58.7,
+        "fuelEfficiency": 14.6,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 1,
+        "driverRating": 4.6,
+        "revenueCollected": 1463,
+        "ordersCompleted": {
+          "count": 28,
+          "percentage": 90.5
+        },
+        "boxesDelivered": 313,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 99.6,
+        "fuelConsumption": 60,
+        "distanceCovered": 378,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route D",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 61.0,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 5,
+        "driverRating": 4.9,
+        "revenueCollected": 583,
+        "ordersCompleted": {
+          "count": 43,
+          "percentage": 91.7
+        },
+        "boxesDelivered": 560,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 90.8,
+        "fuelConsumption": 66,
+        "distanceCovered": 357,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 62.1,
+        "fuelEfficiency": 12.2,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 5,
+        "driverRating": 4.5,
+        "revenueCollected": 1420,
+        "ordersCompleted": {
+          "count": 42,
+          "percentage": 91.7
+        },
+        "boxesDelivered": 228,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 91.3,
+        "fuelConsumption": 56,
+        "distanceCovered": 533,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 61.3,
+        "fuelEfficiency": 13.7,
+        "stopFrequency": 1
+      }
+    ]
+  },
+  {
+    "id": "d007",
+    "type": "Broker",
+    "fullName": "Driver 7",
+    "contactInfo": {
+      "phone": "+1 555 000 1007",
+      "email": "driver7@example.com"
+    },
+    "yearsOfExperience": 1,
+    "license": {
+      "type": "Class B",
+      "expiryDate": "2026-12-19"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 1,
+        "driverRating": 4.5,
+        "revenueCollected": 561,
+        "ordersCompleted": {
+          "count": 14,
+          "percentage": 99.8
+        },
+        "boxesDelivered": 441,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 92.9,
+        "fuelConsumption": 41,
+        "distanceCovered": 693,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 63.1,
+        "fuelEfficiency": 11.9,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 3,
+        "driverRating": 4.1,
+        "revenueCollected": 1050,
+        "ordersCompleted": {
+          "count": 35,
+          "percentage": 92.9
+        },
+        "boxesDelivered": 572,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 98.3,
+        "fuelConsumption": 31,
+        "distanceCovered": 800,
+        "workingHours": 29,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 50.0,
+        "fuelEfficiency": 11.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 2,
+        "driverRating": 4.9,
+        "revenueCollected": 1242,
+        "ordersCompleted": {
+          "count": 17,
+          "percentage": 85.5
+        },
+        "boxesDelivered": 538,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 96.1,
+        "fuelConsumption": 31,
+        "distanceCovered": 423,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 1"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 58.4,
+        "fuelEfficiency": 14.4,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 1,
+        "driverRating": 4.4,
+        "revenueCollected": 739,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 88.3
+        },
+        "boxesDelivered": 597,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 91.4,
+        "fuelConsumption": 48,
+        "distanceCovered": 419,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 64.7,
+        "fuelEfficiency": 12.6,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 3,
+        "driverRating": 4.3,
+        "revenueCollected": 1070,
+        "ordersCompleted": {
+          "count": 47,
+          "percentage": 98.2
+        },
+        "boxesDelivered": 289,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.8,
+        "fuelConsumption": 65,
+        "distanceCovered": 553,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 53.2,
+        "fuelEfficiency": 11.5,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.5,
+        "revenueCollected": 1369,
+        "ordersCompleted": {
+          "count": 24,
+          "percentage": 89.5
+        },
+        "boxesDelivered": 562,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 98.1,
+        "fuelConsumption": 33,
+        "distanceCovered": 587,
+        "workingHours": 33,
+        "mostUsedLanes": [
+          "Route C",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 51.6,
+        "fuelEfficiency": 10.4,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 3,
+        "driverRating": 4.1,
+        "revenueCollected": 1241,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 85.8
+        },
+        "boxesDelivered": 393,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.0,
+        "fuelConsumption": 32,
+        "distanceCovered": 747,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 51.7,
+        "fuelEfficiency": 14.8,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 2,
+        "driverRating": 4.9,
+        "revenueCollected": 1485,
+        "ordersCompleted": {
+          "count": 17,
+          "percentage": 96.2
+        },
+        "boxesDelivered": 586,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 99.1,
+        "fuelConsumption": 68,
+        "distanceCovered": 660,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Route C",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse X"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 52.6,
+        "fuelEfficiency": 12.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 3,
+        "driverRating": 4.3,
+        "revenueCollected": 1025,
+        "ordersCompleted": {
+          "count": 41,
+          "percentage": 92.0
+        },
+        "boxesDelivered": 569,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 97.6,
+        "fuelConsumption": 50,
+        "distanceCovered": 768,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 49.4,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.9,
+        "revenueCollected": 1093,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 89.4
+        },
+        "boxesDelivered": 300,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 92.3,
+        "fuelConsumption": 66,
+        "distanceCovered": 726,
+        "workingHours": 27,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 57.8,
+        "fuelEfficiency": 12.5,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 3,
+        "driverRating": 4.2,
+        "revenueCollected": 1237,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 92.3
+        },
+        "boxesDelivered": 477,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 99.6,
+        "fuelConsumption": 63,
+        "distanceCovered": 317,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 49.6,
+        "fuelEfficiency": 13.5,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 2,
+        "driverRating": 4.5,
+        "revenueCollected": 882,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 94.3
+        },
+        "boxesDelivered": 541,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 99.1,
+        "fuelConsumption": 61,
+        "distanceCovered": 308,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 50.5,
+        "fuelEfficiency": 14.9,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 5,
+        "driverRating": 4.8,
+        "revenueCollected": 1190,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 97.1
+        },
+        "boxesDelivered": 291,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 99.2,
+        "fuelConsumption": 63,
+        "distanceCovered": 376,
+        "workingHours": 27,
+        "mostUsedLanes": [
+          "Route B",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 46.6,
+        "fuelEfficiency": 14.8,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 5,
+        "driverRating": 4.2,
+        "revenueCollected": 1213,
+        "ordersCompleted": {
+          "count": 24,
+          "percentage": 89.5
+        },
+        "boxesDelivered": 241,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 99.9,
+        "fuelConsumption": 32,
+        "distanceCovered": 347,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 45.2,
+        "fuelEfficiency": 10.9,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 4,
+        "driverRating": 4.6,
+        "revenueCollected": 839,
+        "ordersCompleted": {
+          "count": 46,
+          "percentage": 99.7
+        },
+        "boxesDelivered": 248,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 99.2,
+        "fuelConsumption": 44,
+        "distanceCovered": 408,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 50.6,
+        "fuelEfficiency": 12.7,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 2,
+        "driverRating": 4.9,
+        "revenueCollected": 822,
+        "ordersCompleted": {
+          "count": 11,
+          "percentage": 99.4
+        },
+        "boxesDelivered": 500,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 97.5,
+        "fuelConsumption": 55,
+        "distanceCovered": 775,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.4,
+        "averageSpeed": 62.0,
+        "fuelEfficiency": 13.4,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 4,
+        "driverRating": 4.8,
+        "revenueCollected": 643,
+        "ordersCompleted": {
+          "count": 15,
+          "percentage": 92.5
+        },
+        "boxesDelivered": 377,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 91.0,
+        "fuelConsumption": 44,
+        "distanceCovered": 729,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 60.7,
+        "fuelEfficiency": 12.3,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 3,
+        "driverRating": 4.6,
+        "revenueCollected": 884,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 87.8
+        },
+        "boxesDelivered": 499,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 93.8,
+        "fuelConsumption": 69,
+        "distanceCovered": 451,
+        "workingHours": 27,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 60.7,
+        "fuelEfficiency": 10.8,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 593,
+        "ordersCompleted": {
+          "count": 10,
+          "percentage": 99.1
+        },
+        "boxesDelivered": 427,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 97.6,
+        "fuelConsumption": 36,
+        "distanceCovered": 367,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 46.8,
+        "fuelEfficiency": 12.8,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 4,
+        "driverRating": 4.0,
+        "revenueCollected": 923,
+        "ordersCompleted": {
+          "count": 34,
+          "percentage": 96.7
+        },
+        "boxesDelivered": 571,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 99.1,
+        "fuelConsumption": 45,
+        "distanceCovered": 592,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 3"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 50.4,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 2
+      }
+    ]
+  },
+  {
+    "id": "d008",
+    "type": "Broker",
+    "fullName": "Driver 8",
+    "contactInfo": {
+      "phone": "+1 555 000 1008",
+      "email": "driver8@example.com"
+    },
+    "yearsOfExperience": 7,
+    "license": {
+      "type": "Class B",
+      "expiryDate": "2027-03-08"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 3,
+        "driverRating": 4.5,
+        "revenueCollected": 578,
+        "ordersCompleted": {
+          "count": 33,
+          "percentage": 88.8
+        },
+        "boxesDelivered": 326,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.3,
+        "fuelConsumption": 68,
+        "distanceCovered": 615,
+        "workingHours": 26,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 52.9,
+        "fuelEfficiency": 14.2,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 940,
+        "ordersCompleted": {
+          "count": 48,
+          "percentage": 87.0
+        },
+        "boxesDelivered": 364,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 99.5,
+        "fuelConsumption": 42,
+        "distanceCovered": 545,
+        "workingHours": 30,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 1.6,
+        "averageSpeed": 57.7,
+        "fuelEfficiency": 14.8,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 1336,
+        "ordersCompleted": {
+          "count": 35,
+          "percentage": 90.5
+        },
+        "boxesDelivered": 488,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 95.9,
+        "fuelConsumption": 64,
+        "distanceCovered": 392,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 61.6,
+        "fuelEfficiency": 10.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 4,
+        "driverRating": 4.1,
+        "revenueCollected": 810,
+        "ordersCompleted": {
+          "count": 25,
+          "percentage": 88.8
+        },
+        "boxesDelivered": 278,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 94.2,
+        "fuelConsumption": 54,
+        "distanceCovered": 337,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route D",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 63.5,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 5,
+        "driverRating": 4.0,
+        "revenueCollected": 1491,
+        "ordersCompleted": {
+          "count": 33,
+          "percentage": 95.5
+        },
+        "boxesDelivered": 474,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 96.4,
+        "fuelConsumption": 35,
+        "distanceCovered": 355,
+        "workingHours": 27,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 1"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 57.9,
+        "fuelEfficiency": 13.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 4,
+        "driverRating": 4.1,
+        "revenueCollected": 600,
+        "ordersCompleted": {
+          "count": 26,
+          "percentage": 88.3
+        },
+        "boxesDelivered": 582,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 95.6,
+        "fuelConsumption": 66,
+        "distanceCovered": 413,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 45.5,
+        "fuelEfficiency": 10.5,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 1,
+        "driverRating": 4.1,
+        "revenueCollected": 1463,
+        "ordersCompleted": {
+          "count": 19,
+          "percentage": 90.2
+        },
+        "boxesDelivered": 375,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 97.8,
+        "fuelConsumption": 63,
+        "distanceCovered": 547,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route C",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 51.0,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 1,
+        "driverRating": 4.8,
+        "revenueCollected": 1163,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 95.2
+        },
+        "boxesDelivered": 284,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 92.4,
+        "fuelConsumption": 41,
+        "distanceCovered": 582,
+        "workingHours": 25,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 57.6,
+        "fuelEfficiency": 10.9,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 4,
+        "driverRating": 4.0,
+        "revenueCollected": 1128,
+        "ordersCompleted": {
+          "count": 22,
+          "percentage": 91.7
+        },
+        "boxesDelivered": 419,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 90.0,
+        "fuelConsumption": 43,
+        "distanceCovered": 405,
+        "workingHours": 28,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 48.9,
+        "fuelEfficiency": 10.6,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 5,
+        "driverRating": 5.0,
+        "revenueCollected": 820,
+        "ordersCompleted": {
+          "count": 48,
+          "percentage": 90.8
+        },
+        "boxesDelivered": 400,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 91.1,
+        "fuelConsumption": 52,
+        "distanceCovered": 732,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 51.3,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 644,
+        "ordersCompleted": {
+          "count": 42,
+          "percentage": 90.8
+        },
+        "boxesDelivered": 505,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 95.7,
+        "fuelConsumption": 57,
+        "distanceCovered": 395,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 47.8,
+        "fuelEfficiency": 11.6,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 5,
+        "driverRating": 4.1,
+        "revenueCollected": 867,
+        "ordersCompleted": {
+          "count": 10,
+          "percentage": 92.3
+        },
+        "boxesDelivered": 299,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 99.6,
+        "fuelConsumption": 62,
+        "distanceCovered": 634,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 46.7,
+        "fuelEfficiency": 10.2,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 3,
+        "driverRating": 4.0,
+        "revenueCollected": 730,
+        "ordersCompleted": {
+          "count": 44,
+          "percentage": 89.3
+        },
+        "boxesDelivered": 599,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 95.7,
+        "fuelConsumption": 61,
+        "distanceCovered": 581,
+        "workingHours": 36,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 1.3,
+        "averageSpeed": 60.1,
+        "fuelEfficiency": 13.8,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 5,
+        "driverRating": 4.2,
+        "revenueCollected": 935,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 96.0
+        },
+        "boxesDelivered": 534,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 93.0,
+        "fuelConsumption": 32,
+        "distanceCovered": 530,
+        "workingHours": 28,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 49.7,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 5,
+        "driverRating": 4.6,
+        "revenueCollected": 669,
+        "ordersCompleted": {
+          "count": 49,
+          "percentage": 87.1
+        },
+        "boxesDelivered": 305,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 98.1,
+        "fuelConsumption": 66,
+        "distanceCovered": 479,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 3"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 50.3,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 2,
+        "driverRating": 5.0,
+        "revenueCollected": 1304,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 98.8
+        },
+        "boxesDelivered": 341,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 91.3,
+        "fuelConsumption": 38,
+        "distanceCovered": 427,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 57.6,
+        "fuelEfficiency": 13.1,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 4,
+        "driverRating": 4.1,
+        "revenueCollected": 1313,
+        "ordersCompleted": {
+          "count": 15,
+          "percentage": 91.0
+        },
+        "boxesDelivered": 583,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 96.9,
+        "fuelConsumption": 53,
+        "distanceCovered": 532,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 58.9,
+        "fuelEfficiency": 14.3,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 2,
+        "driverRating": 5.0,
+        "revenueCollected": 1344,
+        "ordersCompleted": {
+          "count": 23,
+          "percentage": 92.4
+        },
+        "boxesDelivered": 365,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 93.4,
+        "fuelConsumption": 66,
+        "distanceCovered": 366,
+        "workingHours": 38,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 3"
+        ],
+        "idleTime": 0.6,
+        "averageSpeed": 60.7,
+        "fuelEfficiency": 12.3,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 500,
+        "ordersCompleted": {
+          "count": 37,
+          "percentage": 88.0
+        },
+        "boxesDelivered": 552,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 98.8,
+        "fuelConsumption": 49,
+        "distanceCovered": 381,
+        "workingHours": 28,
+        "mostUsedLanes": [
+          "Route A",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.1,
+        "averageSpeed": 63.1,
+        "fuelEfficiency": 10.8,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 3,
+        "driverRating": 4.7,
+        "revenueCollected": 1273,
+        "ordersCompleted": {
+          "count": 24,
+          "percentage": 91.4
+        },
+        "boxesDelivered": 246,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 91.0,
+        "fuelConsumption": 43,
+        "distanceCovered": 544,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 58.9,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 4
+      }
+    ]
+  },
+  {
+    "id": "d009",
+    "type": "Broker",
+    "fullName": "Driver 9",
+    "contactInfo": {
+      "phone": "+1 555 000 1009",
+      "email": "driver9@example.com"
+    },
+    "yearsOfExperience": 12,
+    "license": {
+      "type": "Class A",
+      "expiryDate": "2027-05-05"
+    },
+    "kpiHistory": [
+      {
+        "date": "2025-01-01",
+        "tripsCompleted": 1,
+        "driverRating": 4.2,
+        "revenueCollected": 591,
+        "ordersCompleted": {
+          "count": 16,
+          "percentage": 86.5
+        },
+        "boxesDelivered": 388,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 91.4,
+        "fuelConsumption": 38,
+        "distanceCovered": 628,
+        "workingHours": 24,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.2,
+        "averageSpeed": 59.4,
+        "fuelEfficiency": 13.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-01-08",
+        "tripsCompleted": 4,
+        "driverRating": 4.6,
+        "revenueCollected": 953,
+        "ordersCompleted": {
+          "count": 23,
+          "percentage": 86.3
+        },
+        "boxesDelivered": 251,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 97.5,
+        "fuelConsumption": 67,
+        "distanceCovered": 673,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 2"
+        ],
+        "idleTime": 0.9,
+        "averageSpeed": 57.9,
+        "fuelEfficiency": 11.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-01-15",
+        "tripsCompleted": 1,
+        "driverRating": 4.8,
+        "revenueCollected": 1174,
+        "ordersCompleted": {
+          "count": 29,
+          "percentage": 88.1
+        },
+        "boxesDelivered": 510,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 91.9,
+        "fuelConsumption": 55,
+        "distanceCovered": 451,
+        "workingHours": 40,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 3"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 55.0,
+        "fuelEfficiency": 13.0,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-01-22",
+        "tripsCompleted": 3,
+        "driverRating": 4.9,
+        "revenueCollected": 635,
+        "ordersCompleted": {
+          "count": 34,
+          "percentage": 97.9
+        },
+        "boxesDelivered": 491,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 93.7,
+        "fuelConsumption": 41,
+        "distanceCovered": 690,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 1"
+        ],
+        "idleTime": 0.5,
+        "averageSpeed": 49.3,
+        "fuelEfficiency": 14.6,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-01-29",
+        "tripsCompleted": 5,
+        "driverRating": 4.3,
+        "revenueCollected": 1229,
+        "ordersCompleted": {
+          "count": 42,
+          "percentage": 96.5
+        },
+        "boxesDelivered": 416,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 94.0,
+        "fuelConsumption": 70,
+        "distanceCovered": 574,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route D",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 1.0,
+        "averageSpeed": 55.2,
+        "fuelEfficiency": 11.0,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-02-05",
+        "tripsCompleted": 5,
+        "driverRating": 4.3,
+        "revenueCollected": 1100,
+        "ordersCompleted": {
+          "count": 50,
+          "percentage": 96.4
+        },
+        "boxesDelivered": 532,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 96.4,
+        "fuelConsumption": 49,
+        "distanceCovered": 657,
+        "workingHours": 33,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Depot 1"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 47.3,
+        "fuelEfficiency": 13.1,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-12",
+        "tripsCompleted": 3,
+        "driverRating": 4.7,
+        "revenueCollected": 1173,
+        "ordersCompleted": {
+          "count": 21,
+          "percentage": 86.8
+        },
+        "boxesDelivered": 562,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 97.0,
+        "fuelConsumption": 40,
+        "distanceCovered": 554,
+        "workingHours": 31,
+        "mostUsedLanes": [
+          "Route D",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 60.6,
+        "fuelEfficiency": 11.3,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-19",
+        "tripsCompleted": 1,
+        "driverRating": 4.3,
+        "revenueCollected": 939,
+        "ordersCompleted": {
+          "count": 27,
+          "percentage": 92.9
+        },
+        "boxesDelivered": 334,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 99.8,
+        "fuelConsumption": 70,
+        "distanceCovered": 339,
+        "workingHours": 35,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.8,
+        "averageSpeed": 48.3,
+        "fuelEfficiency": 10.8,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-02-26",
+        "tripsCompleted": 5,
+        "driverRating": 4.7,
+        "revenueCollected": 618,
+        "ordersCompleted": {
+          "count": 24,
+          "percentage": 96.1
+        },
+        "boxesDelivered": 201,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 98.6,
+        "fuelConsumption": 30,
+        "distanceCovered": 425,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route C",
+          "Highway 33"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 2"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 64.2,
+        "fuelEfficiency": 10.2,
+        "stopFrequency": 4
+      },
+      {
+        "date": "2025-03-05",
+        "tripsCompleted": 2,
+        "driverRating": 4.3,
+        "revenueCollected": 926,
+        "ordersCompleted": {
+          "count": 30,
+          "percentage": 89.1
+        },
+        "boxesDelivered": 239,
+        "boxesRejected": 4,
+        "onTimeArrivalPercent": 93.7,
+        "fuelConsumption": 62,
+        "distanceCovered": 644,
+        "workingHours": 21,
+        "mostUsedLanes": [
+          "Route B",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 1"
+        ],
+        "idleTime": 1.9,
+        "averageSpeed": 46.4,
+        "fuelEfficiency": 12.3,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-03-12",
+        "tripsCompleted": 3,
+        "driverRating": 4.3,
+        "revenueCollected": 1066,
+        "ordersCompleted": {
+          "count": 39,
+          "percentage": 85.1
+        },
+        "boxesDelivered": 302,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 95.6,
+        "fuelConsumption": 49,
+        "distanceCovered": 678,
+        "workingHours": 39,
+        "mostUsedLanes": [
+          "Route B",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Warehouse Y"
+        ],
+        "idleTime": 2.0,
+        "averageSpeed": 60.5,
+        "fuelEfficiency": 13.7,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-03-19",
+        "tripsCompleted": 2,
+        "driverRating": 4.0,
+        "revenueCollected": 919,
+        "ordersCompleted": {
+          "count": 11,
+          "percentage": 88.5
+        },
+        "boxesDelivered": 377,
+        "boxesRejected": 5,
+        "onTimeArrivalPercent": 98.4,
+        "fuelConsumption": 30,
+        "distanceCovered": 786,
+        "workingHours": 30,
+        "mostUsedLanes": [
+          "Route A",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 64.7,
+        "fuelEfficiency": 12.1,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-03-26",
+        "tripsCompleted": 2,
+        "driverRating": 4.7,
+        "revenueCollected": 595,
+        "ordersCompleted": {
+          "count": 12,
+          "percentage": 98.8
+        },
+        "boxesDelivered": 466,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 97.0,
+        "fuelConsumption": 53,
+        "distanceCovered": 534,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route D",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Depot 3",
+          "Depot 2"
+        ],
+        "idleTime": 1.5,
+        "averageSpeed": 52.9,
+        "fuelEfficiency": 13.0,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-02",
+        "tripsCompleted": 4,
+        "driverRating": 4.7,
+        "revenueCollected": 633,
+        "ordersCompleted": {
+          "count": 25,
+          "percentage": 89.4
+        },
+        "boxesDelivered": 361,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 97.0,
+        "fuelConsumption": 50,
+        "distanceCovered": 462,
+        "workingHours": 34,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Depot 2"
+        ],
+        "idleTime": 0.7,
+        "averageSpeed": 60.4,
+        "fuelEfficiency": 10.5,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-04-09",
+        "tripsCompleted": 2,
+        "driverRating": 4.4,
+        "revenueCollected": 821,
+        "ordersCompleted": {
+          "count": 36,
+          "percentage": 86.8
+        },
+        "boxesDelivered": 383,
+        "boxesRejected": 1,
+        "onTimeArrivalPercent": 94.5,
+        "fuelConsumption": 59,
+        "distanceCovered": 435,
+        "workingHours": 23,
+        "mostUsedLanes": [
+          "Route A",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Warehouse X",
+          "Depot 1"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 62.1,
+        "fuelEfficiency": 10.7,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-04-16",
+        "tripsCompleted": 3,
+        "driverRating": 4.4,
+        "revenueCollected": 550,
+        "ordersCompleted": {
+          "count": 29,
+          "percentage": 88.9
+        },
+        "boxesDelivered": 289,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 99.5,
+        "fuelConsumption": 58,
+        "distanceCovered": 584,
+        "workingHours": 37,
+        "mostUsedLanes": [
+          "Route B",
+          "Route A"
+        ],
+        "mostVisitedStops": [
+          "Warehouse Y",
+          "Depot 1"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 47.8,
+        "fuelEfficiency": 10.1,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-04-23",
+        "tripsCompleted": 2,
+        "driverRating": 4.2,
+        "revenueCollected": 910,
+        "ordersCompleted": {
+          "count": 33,
+          "percentage": 95.3
+        },
+        "boxesDelivered": 530,
+        "boxesRejected": 0,
+        "onTimeArrivalPercent": 95.8,
+        "fuelConsumption": 46,
+        "distanceCovered": 769,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Route A",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 1.7,
+        "averageSpeed": 46.8,
+        "fuelEfficiency": 14.2,
+        "stopFrequency": 3
+      },
+      {
+        "date": "2025-04-30",
+        "tripsCompleted": 1,
+        "driverRating": 4.0,
+        "revenueCollected": 972,
+        "ordersCompleted": {
+          "count": 13,
+          "percentage": 87.5
+        },
+        "boxesDelivered": 493,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 98.2,
+        "fuelConsumption": 55,
+        "distanceCovered": 554,
+        "workingHours": 20,
+        "mostUsedLanes": [
+          "Route C",
+          "Route D"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse X"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 48.7,
+        "fuelEfficiency": 11.4,
+        "stopFrequency": 2
+      },
+      {
+        "date": "2025-05-07",
+        "tripsCompleted": 1,
+        "driverRating": 4.6,
+        "revenueCollected": 1131,
+        "ordersCompleted": {
+          "count": 25,
+          "percentage": 94.7
+        },
+        "boxesDelivered": 455,
+        "boxesRejected": 3,
+        "onTimeArrivalPercent": 98.8,
+        "fuelConsumption": 60,
+        "distanceCovered": 331,
+        "workingHours": 22,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route C"
+        ],
+        "mostVisitedStops": [
+          "Depot 2",
+          "Warehouse Y"
+        ],
+        "idleTime": 0.8,
+        "averageSpeed": 62.7,
+        "fuelEfficiency": 12.6,
+        "stopFrequency": 1
+      },
+      {
+        "date": "2025-05-14",
+        "tripsCompleted": 4,
+        "driverRating": 4.8,
+        "revenueCollected": 867,
+        "ordersCompleted": {
+          "count": 40,
+          "percentage": 93.2
+        },
+        "boxesDelivered": 448,
+        "boxesRejected": 2,
+        "onTimeArrivalPercent": 99.1,
+        "fuelConsumption": 62,
+        "distanceCovered": 464,
+        "workingHours": 32,
+        "mostUsedLanes": [
+          "Highway 33",
+          "Route B"
+        ],
+        "mostVisitedStops": [
+          "Depot 1",
+          "Warehouse X"
+        ],
+        "idleTime": 1.4,
+        "averageSpeed": 45.6,
+        "fuelEfficiency": 14.1,
+        "stopFrequency": 3
+      }
+    ]
+  }
+]
