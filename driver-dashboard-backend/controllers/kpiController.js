@@ -1,9 +1,9 @@
 const KPI = require('../models/KpiHistory');
 
 // Get all KPI records
-exports.getAllKpis = async (req, res) => {
+exports.getAllKpis = (req, res) => {
   try {
-    const kpis = await KPI.findAll();
+    const kpis = require('../driver_kpi_dataset_v2.json'); // adjust path as needed
     res.json(kpis);
   } catch (err) {
     res.status(500).json({ error: err.message });
